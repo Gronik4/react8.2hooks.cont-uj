@@ -8,5 +8,7 @@ const [data, loading, error] = useJsonFetch(url, opts);
 data — данные, полученные после response.json(), не Promise, а именно данные;  
 error — ошибка: ошибка сети, ошибка ответа, если код не 20x, ошибка парсинга, если пришёл не JSON;  
 loading — boolean флаг, сигнализирующий о том, что загрузка идёт.
+
+**Project Sample**
   
-[Посмотреть результат]
+[Посмотреть результат](https://gronik4.github.io/react8.2hooks.cont-uj/)

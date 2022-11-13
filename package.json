@@ -21,7 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://github.com/Gronik4/react8.2hooks.cont-uj.git",
+  "homepage": "https://gronik4.github.io/react8.2hooks.cont-uj/",
   "eslintConfig": {
     "extends": [
       "react-app",
