@@ -9,6 +9,6 @@ data — данные, полученные после response.json(), не Pro
 error — ошибка: ошибка сети, ошибка ответа, если код не 20x, ошибка парсинга, если пришёл не JSON;  
 loading — boolean флаг, сигнализирующий о том, что загрузка идёт.
 
-**Project Sample**
+**Project Sample** [![Build status](https://ci.appveyor.com/api/projects/status/gfxg4c0986v04jyl?svg=true)](https://ci.appveyor.com/project/Gronik4/react8-2hooks-cont-uj)
   
 [Посмотреть результат](https://gronik4.github.io/react8.2hooks.cont-uj/)
