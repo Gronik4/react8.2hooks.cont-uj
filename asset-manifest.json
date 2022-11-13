@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react8.2hooks.cont-uj/static/css/main.412367c9.css",
+    "main.js": "/react8.2hooks.cont-uj/static/js/main.8acd0788.js",
+    "static/js/787.f4d33441.chunk.js": "/react8.2hooks.cont-uj/static/js/787.f4d33441.chunk.js",
+    "static/media/load.gif": "/react8.2hooks.cont-uj/static/media/load.1d1177646056a90c48b0.gif",
+    "index.html": "/react8.2hooks.cont-uj/index.html",
+    "main.412367c9.css.map": "/react8.2hooks.cont-uj/static/css/main.412367c9.css.map",
+    "main.8acd0788.js.map": "/react8.2hooks.cont-uj/static/js/main.8acd0788.js.map",
+    "787.f4d33441.chunk.js.map": "/react8.2hooks.cont-uj/static/js/787.f4d33441.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.412367c9.css",
+    "static/js/main.8acd0788.js"
+  ]
+}
